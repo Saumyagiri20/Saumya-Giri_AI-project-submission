@@ -1,4 +1,3 @@
-# Saumya-Giri_AI-project-submission
 # 🧠 Employee Sentiment Analysis – Final Project
 
 This project analyzes an unlabeled dataset of employee emails to detect sentiment, evaluate engagement, and identify potential flight risks. It uses NLP and machine learning techniques to uncover hidden patterns in employee communications.
